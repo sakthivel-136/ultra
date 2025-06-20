@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/130YczEBtIsTOucolL7Ff71aKWDi6Y1qR
 """
 
-pip install streamlit paho-mqtt joblib numpy
+
 
 import streamlit as st
 import paho.mqtt.client as mqtt
