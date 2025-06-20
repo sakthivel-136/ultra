@@ -1,5 +1,5 @@
 streamlit
-scikit-learn
-pandas
+paho-mqtt
+joblib
 numpy
-matplotlib
+scikit-learn
