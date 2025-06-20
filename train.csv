@@ -1,101 +1,203 @@
 Distance(cm),Status
+37.0,🚶 Person Detected
+6.3,🚨 Unsafe
+18.8,✅ Safe
+16.2,✅ Safe
+41.8,🚶 Person Detected
+38.8,🚶 Person Detected
+49.6,🚶 Person Detected
+9.3,🚨 Unsafe
+26.1,🚶 Person Detected
+6.5,🚨 Unsafe
+40.0,🚶 Person Detected
+12.6,⚠️ Caution
+15.4,⚠️ Caution
+27.3,🚶 Person Detected
+44.9,🚶 Person Detected
+32.8,🚶 Person Detected
+9.5,🚨 Unsafe
+19.2,✅ Safe
+8.7,🚨 Unsafe
+20.4,✅ Safe
+39.6,🚶 Person Detected
+34.3,🚶 Person Detected
+48.4,🚶 Person Detected
+14.2,⚠️ Caution
+7.0,🚨 Unsafe
+23.5,🚶 Person Detected
+18.2,✅ Safe
+35.7,🚶 Person Detected
+51.6,🚶 Person Detected
+5.6,🚨 Unsafe
+15.0,⚠️ Caution
+22.0,✅ Safe
+8.0,🚨 Unsafe
+10.0,🚨 Unsafe
+36.5,🚶 Person Detected
+28.3,🚶 Person Detected
+12.1,⚠️ Caution
+19.9,✅ Safe
+9.9,🚨 Unsafe
+16.8,✅ Safe
+21.7,✅ Safe
+31.2,🚶 Person Detected
+6.8,🚨 Unsafe
+13.7,⚠️ Caution
+43.0,🚶 Person Detected
+50.2,🚶 Person Detected
+18.5,✅ Safe
+9.6,🚨 Unsafe
+47.1,🚶 Person Detected
+11.3,⚠️ Caution
+21.2,✅ Safe
+22.6,🚶 Person Detected
+14.7,⚠️ Caution
+19.5,✅ Safe
+7.9,🚨 Unsafe
+25.8,🚶 Person Detected
+42.3,🚶 Person Detected
+13.2,⚠️ Caution
+6.1,🚨 Unsafe
+17.6,✅ Safe
+51.1,🚶 Person Detected
+11.6,⚠️ Caution
+45.5,🚶 Person Detected
+15.8,⚠️ Caution
+10.7,⚠️ Caution
+9.0,🚨 Unsafe
+32.0,🚶 Person Detected
+20.0,✅ Safe
+48.6,🚶 Person Detected
+17.3,✅ Safe
+10.2,🚨 Unsafe
+29.1,🚶 Person Detected
+12.9,⚠️ Caution
+21.5,✅ Safe
+24.4,🚶 Person Detected
+6.4,🚨 Unsafe
+14.5,⚠️ Caution
+50.7,🚶 Person Detected
+11.8,⚠️ Caution
+22.5,🚶 Person Detected
+15.3,⚠️ Caution
+9.7,🚨 Unsafe
+35.4,🚶 Person Detected
+17.0,✅ Safe
+7.2,🚨 Unsafe
+13.9,⚠️ Caution
+26.9,🚶 Person Detected
+20.9,✅ Safe
+18.0,✅ Safe
+33.7,🚶 Person Detected
+10.5,⚠️ Caution
+16.5,✅ Safe
+7.5,🚨 Unsafe
+5.8,🚨 Unsafe
+30.6,🚶 Person Detected
+12.3,⚠️ Caution
+22.2,✅ Safe
+6.6,🚨 Unsafe
+8.5,🚨 Unsafe
+46.4,🚶 Person Detected
+11.1,⚠️ Caution
+19.0,✅ Safe
 23.6,✅ Safe
 7.8,🚨 Unsafe
 10.2,⚠️ Caution
-47.5,🚆 Train Approaching
+47.5,🚶 Person Detected
 11.4,⚠️ Caution
 6.3,🚨 Unsafe
-49.0,🚆 Train Approaching
+49.0,🚶 Person Detected
 20.3,✅ Safe
 9.8,🚨 Unsafe
-52.1,🚆 Train Approaching
+52.1,🚶 Person Detected
 18.6,✅ Safe
-45.4,🚆 Train Approaching
+45.4,🚶 Person Detected
 12.0,⚠️ Caution
 8.2,🚨 Unsafe
 15.6,⚠️ Caution
-54.3,🚆 Train Approaching
+54.3,🚶 Person Detected
 21.1,✅ Safe
 10.9,⚠️ Caution
-50.7,🚆 Train Approaching
+50.7,🚶 Person Detected
 5.6,🚨 Unsafe
 19.2,✅ Safe
 13.4,⚠️ Caution
-46.9,🚆 Train Approaching
+46.9,🚶 Person Detected
 6.5,🚨 Unsafe
 17.7,✅ Safe
-51.2,🚆 Train Approaching
+51.2,🚶 Person Detected
 9.1,🚨 Unsafe
 11.8,⚠️ Caution
-48.6,🚆 Train Approaching
+48.6,🚶 Person Detected
 16.3,⚠️ Caution
 22.9,✅ Safe
 7.4,🚨 Unsafe
-47.3,🚆 Train Approaching
+47.3,🚶 Person Detected
 13.7,⚠️ Caution
 10.5,⚠️ Caution
-49.8,🚆 Train Approaching
+49.8,🚶 Person Detected
 18.2,✅ Safe
 8.9,🚨 Unsafe
 12.2,⚠️ Caution
-52.9,🚆 Train Approaching
+52.9,🚶 Person Detected
 20.8,✅ Safe
 6.1,🚨 Unsafe
-44.8,🚆 Train Approaching
+44.8,🚶 Person Detected
 14.1,⚠️ Caution
 11.0,⚠️ Caution
-50.1,🚆 Train Approaching
+50.1,🚶 Person Detected
 19.7,✅ Safe
 9.3,🚨 Unsafe
-46.1,🚆 Train Approaching
+46.1,🚶 Person Detected
 17.2,✅ Safe
 8.4,🚨 Unsafe
 10.8,⚠️ Caution
-51.6,🚆 Train Approaching
+51.6,🚶 Person Detected
 22.3,✅ Safe
 12.9,⚠️ Caution
-48.0,🚆 Train Approaching
+48.0,🚶 Person Detected
 15.9,⚠️ Caution
 6.8,🚨 Unsafe
-50.5,🚆 Train Approaching
+50.5,🚶 Person Detected
 20.0,✅ Safe
 9.6,🚨 Unsafe
-47.8,🚆 Train Approaching
+47.8,🚶 Person Detected
 13.2,⚠️ Caution
 10.3,⚠️ Caution
-49.2,🚆 Train Approaching
+49.2,🚶 Person Detected
 19.1,✅ Safe
 7.9,🚨 Unsafe
 11.7,⚠️ Caution
-45.9,🚆 Train Approaching
+45.9,🚶 Person Detected
 17.4,✅ Safe
 9.0,🚨 Unsafe
-52.4,🚆 Train Approaching
+52.4,🚶 Person Detected
 14.5,⚠️ Caution
 11.1,⚠️ Caution
-48.9,🚆 Train Approaching
+48.9,🚶 Person Detected
 18.5,✅ Safe
 8.6,🚨 Unsafe
 10.7,⚠️ Caution
-50.9,🚆 Train Approaching
+50.9,🚶 Person Detected
 21.3,✅ Safe
 7.1,🚨 Unsafe
-46.6,🚆 Train Approaching
+46.6,🚶 Person Detected
 13.9,⚠️ Caution
 10.0,⚠️ Caution
-49.5,🚆 Train Approaching
+49.5,🚶 Person Detected
 19.6,✅ Safe
 9.2,🚨 Unsafe
 12.6,⚠️ Caution
-53.1,🚆 Train Approaching
+53.1,🚶 Person Detected
 20.9,✅ Safe
 6.7,🚨 Unsafe
-44.3,🚆 Train Approaching
+44.3,🚶 Person Detected
 15.1,⚠️ Caution
 11.3,⚠️ Caution
-50.0,🚆 Train Approaching
+50.0,🚶 Person Detected
 18.0,✅ Safe
 9.5,🚨 Unsafe
-46.3,🚆 Train Approaching
+46.3,🚶 Person Detected
 16.7,⚠️ Caution
 8.1,🚨 Unsafe
