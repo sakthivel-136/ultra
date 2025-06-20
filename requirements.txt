@@ -3,4 +3,5 @@ paho-mqtt
 joblib
 numpy
 scikit-learn
+streamlit_autorefresh
 
